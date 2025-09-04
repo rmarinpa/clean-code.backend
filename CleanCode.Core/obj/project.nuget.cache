@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J9wWT/0OYic=",
+  "success": true,
+  "projectFilePath": "/Users/chile.domainadmin/Documents/GitHub/Clean-Code/CleanCode.Core/CleanCode.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/chile.domainadmin/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/chile.domainadmin/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
